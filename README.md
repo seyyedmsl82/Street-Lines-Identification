@@ -21,7 +21,7 @@ This Python script uses OpenCV to perform lane detection in images and videos. I
 2. **Run the Script**: Execute the script by running the following command:
 
     ```bash
-    python line_detection.py
+    python Final_SeyyedRezaMoslemi.py
     ```
 
 3. **Interact with Video**: Press 'q' to exit the video display window.
